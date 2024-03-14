@@ -4,14 +4,14 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FineBi1&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=FA8072&text_color=c9d1d9&bg_color=696969" alt="Pablo Vitor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FineBi1&layout=compact&hide_border=true&title_color=FA8072&text_color=FA8072&bg_color=696969" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pablo-Vitor&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=FA8072&text_color=c9d1d9&bg_color=696969" alt="Pablo Vitor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Vitor&layout=compact&hide_border=true&title_color=FA8072&text_color=FA8072&bg_color=696969" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FineBi1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pablo-Vitor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <br>
